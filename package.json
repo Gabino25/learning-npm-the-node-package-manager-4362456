@@ -15,5 +15,10 @@
   "bugs": {
     "url": "https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456/issues"
   },
-  "homepage": "https://github.com/LinkedInLearning/learning-npm-the-node-package-manager-4362456#readme"
+  "homepage": "https://github.com/Gabino25/learning-npm-the-node-package-manager-4362456#readme",
+  "devDependencies": {
+    "babel": "^5.8.38",
+    "cli": "^1.0.1",
+    "express": "^5.1.0"
+  }
 }
