@@ -1,0 +1,19 @@
+{
+  "name": "learning-npm-the-node-package-manager-4362456",
+  "version": "1.0.0",
+  "description": "my first codespace change",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Gabino25/learning-npm-the-node-package-manager-4362456.git"
+  },
+  "author": "Gabino Learning",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Gabino25/learning-npm-the-node-package-manager-4362456/issues"
+  },
+  "homepage": "https://github.com/Gabino25/learning-npm-the-node-package-manager-4362456#readme"
+}
